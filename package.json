@@ -1,0 +1,25 @@
+{
+  "name": "audviz",
+  "version": "1.0.0",
+  "description": "npm package for audviz audio ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prad-human-007/audviz-npm.git"
+  },
+  "keywords": [
+    "audviz",
+    "audio",
+    "ui",
+    "library"
+  ],
+  "author": "pradhumn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prad-human-007/audviz-npm/issues"
+  },
+  "homepage": "https://github.com/prad-human-007/audviz-npm#readme"
+}
